@@ -69,7 +69,7 @@ This is a RESTFUL API project that demonstrates how to create a basic movie mana
 - **DELETE** `/movies/:id`
 - Deletes a movie by its ID
 
-## Testing with Thunder Client
+## Testing with Postman
 
 1. Download and install Postman for Desktop from your preferred browser
 
